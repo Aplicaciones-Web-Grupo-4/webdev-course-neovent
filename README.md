@@ -92,4 +92,4 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - Billy Jake Ruiz Madrid (U202116401) – Ingeniería de Software
 - Jose Adrian Paredes Davila (U202216163) – Ingeniería de Software
 
-**Fecha de entrega**: 16/11/2025
+**Fecha de entrega**: 14/11/2025
