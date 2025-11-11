@@ -13,37 +13,37 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ## Secuencia de la Lección
 
-### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
+### Lección 1: ¿Qué es el desarrollo web?
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
 - **Enlace**: [Ver la lección](#)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=starter1)
 
-### Lección 2: Introducción a HTML (10 minutos)
+### Lección 2: Introducción a HTML
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
 - **Enlace**: [Ver la lección](#)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
 - **Práctica**: [Clic para programar](#)
 
-### Lección 3: Añadir más elementos HTML (8 minutos)
+### Lección 3: Añadir más elementos HTML
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: [Ver la lección](#)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
 - **Práctica**: [Clic para programar](https://codepen.io/pen/?template=starter1)
 
-### Lección 4: Introducción a CSS (12 minutos)
+### Lección 4: Introducción a CSS
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](#)
 - **Consejos clave**: Vincular CSS y usar selectores como `body { background-color: blue; }`.
 - **Práctica**: [Aplicar estilo](https://codepen.io/pen/?template=starter1)
 
-### Lección 5: Crear una página web sencilla (15 minutos)
+### Lección 5: Crear una página web sencilla
 - **Descripción**: Combina HTML y CSS para crear una página de perfil personal.
 - **Enlace**: [Ver la lección](#)
 - **Consejos clave**: Aplica estilos y depura errores.
 - **Proyecto Final**: [Crea tu página web](https://codepen.io/pen/?template=starter1)
 
-### Lección 6: Consejos y próximos pasos (10 minutos)
+### Lección 6: Consejos y próximos pasos
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección](#)
 - **Consejos clave**: Valida tu código y explora la documentación de MDN Web Docs.
