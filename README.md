@@ -15,19 +15,19 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 1: ¿Qué es el desarrollo web?
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: [Ver la lección](#)
+- **Enlace**: [Ver la lección](https://youtu.be/9imc5YWK9S4)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=starter1)
 
 ### Lección 2: Introducción a HTML
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
-- **Enlace**: [Ver la lección](#)
+- **Enlace**: [Ver la lección](https://youtu.be/vE-QAiZHYwM)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: [Clic para programar](#)
+- **Práctica**: [Clic para programar](https://codepen.io/pen/?template=starter1)
 
 ### Lección 3: Añadir más elementos HTML
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-- **Enlace**: [Ver la lección](#)
+- **Enlace**: [Ver la lección](https://youtu.be/INWzzt7_Hkw)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
 - **Práctica**: [Clic para programar](https://codepen.io/pen/?template=starter1)
 
@@ -91,5 +91,6 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - Jose Raul Chirito Torres (U20201a293) – Ingeniería de Software
 - Billy Jake Ruiz Madrid (U202116401) – Ingeniería de Software
 - Jose Adrian Paredes Davila (U202216163) – Ingeniería de Software
+- Marco Antonio Nakasone Gomes (U202210790) – Ingeniería de Software
 
 **Fecha de entrega**: 14/11/2025
