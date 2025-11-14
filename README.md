@@ -33,19 +33,19 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 4: Introducción a CSS
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección](#)
+- **Enlace**: [Ver la lección](https://youtu.be/6uN8aMmzJUM)
 - **Consejos clave**: Vincular CSS y usar selectores como `body { background-color: blue; }`.
 - **Práctica**: [Aplicar estilo](https://codepen.io/pen/?template=starter1)
 
 ### Lección 5: Crear una página web sencilla
 - **Descripción**: Combina HTML y CSS para crear una página de perfil personal.
-- **Enlace**: [Ver la lección](#)
+- **Enlace**: [Ver la lección](https://youtu.be/rzMq36EurMk)
 - **Consejos clave**: Aplica estilos y depura errores.
 - **Proyecto Final**: [Crea tu página web](https://codepen.io/pen/?template=starter1)
 
 ### Lección 6: Consejos y próximos pasos
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver la lección](#)
+- **Enlace**: [Ver la lección](https://youtu.be/rDnG6LTHFYg)
 - **Consejos clave**: Valida tu código y explora la documentación de MDN Web Docs.
 
 ---
@@ -60,16 +60,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ---
 
 ## Recursos Adicionales
-- **Código Fuente Completo**: [Añadir URL del repositorio GitHub aquí]
+- **Código Fuente Completo**: [https://github.com/Aplicaciones-Web-Grupo-4/webdev-course-neovent]
 
 ### Todas las Actividades Prácticas
 | Lección # | Actividad | Empezar a Programar |
 |---|---|---|
-| 1 | Explorar sitios web | [CodePen](#) |
-| 2 | Primera página HTML | [CodePen](#) |
-| 3 | Añadir imágenes | [CodePen](#) |
-| 4 | Estilo de la página | [CodePen](#) |
-| 5 | Página web | [CodePen](#) |
+| 1 | Explorar sitios web | [CodePen](https://codepen.io/pen) |
+| 2 | Primera página HTML | [CodePen](https://codepen.io/pen) |
+| 3 | Añadir imágenes | [CodePen](https://codepen.io/pen) |
+| 4 | Estilo de la página | [CodePen](https://codepen.io/pen) |
+| 5 | Página web | [CodePen](https://codepen.io/pen) |
 
 **Cuestionario**: Pon a prueba tus conocimientos (enlace aquí)  
 **Compartir**: `#WebDevBeginners`
@@ -84,7 +84,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 **NRC**: 7432
 
 **Nombre del equipo**: Neovent (NextHappen)  
-**Líder del equipo**: (Por confirmar)
+**Líder del equipo**: Marco Antonio Nakasone Gomes (U202210790) – Ingeniería de Software
 
 **Integrantes:**
 - Pablo Afranio Martinez Gaona (U202120011) – Ingeniería de Software
