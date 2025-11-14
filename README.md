@@ -71,7 +71,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 4 | Estilo de la página | [CodePen](https://codepen.io/pen) |
 | 5 | Página web | [CodePen](https://codepen.io/pen) |
 
-**Cuestionario**: Pon a prueba tus conocimientos (enlace aquí)  
+**Cuestionario**: [Pon a prueba tus conocimientos](https://docs.google.com/forms/d/e/1FAIpQLScWMgx8iWDrAXvqY9qzKZ2cclj9L0b7gAPMwZjTR0fouijvtw/viewform?usp=dialog)   
 **Compartir**: `#WebDevBeginners`
 
 ---
